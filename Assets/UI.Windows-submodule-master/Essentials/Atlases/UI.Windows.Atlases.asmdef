@@ -1,0 +1,17 @@
+{
+    "name": "UI.Windows.Atlases",
+    "rootNamespace": "",
+    "references": [
+        "UI.Windows",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
